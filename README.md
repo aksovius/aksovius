@@ -4,6 +4,7 @@
 
 Building mission-critical medical imaging systems that process 100GB+ daily with 99.9% uptime.
 
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-Remote-brightgreen?style=flat)](mailto:alexanderkim.web@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aksovius)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alexanderkim.web@gmail.com)
 
