@@ -55,6 +55,16 @@ AWS (EC2, S3) • Docker • HAProxy • Prometheus • Grafana • Loki • Jen
 
 ---
 
+### Featured Projects
+
+**DICOM Routing System** — *System Architect / Lead Developer*
+
+Scalable medical imaging router processing 100GB+/day from 5 concurrent PACS sources. Built with FastAPI, Redis streams, PostgreSQL. Achieved 99.9% uptime, 150+ images/sec throughput, <200ms p99 latency, 1000+ concurrent connections.
+
+`FastAPI` `Redis` `PostgreSQL` `pynetdicom` `HAProxy` `Docker` `AWS S3`
+
+---
+
 ### Featured Writing
 
 **[How I Migrated 11 Microservices to a Monorepo](https://www.alexanderkim.dev/docs/blog/monorepo-migration)**
