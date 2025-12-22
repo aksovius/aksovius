@@ -55,6 +55,14 @@ AWS (EC2, S3) • Docker • HAProxy • Prometheus • Grafana • Loki • Jen
 
 ---
 
+### Featured Writing
+
+**[How I Migrated 11 Microservices to a Monorepo](https://www.alexanderkim.dev/docs/blog/monorepo-migration)**
+
+Led consolidation of 11 React services + legacy code into Turborepo monorepo. Reduced build time from 90min to 25min, servers from 33 to 3. Upgraded React 17→18, Webpack 4→5, Node 16→22 with <5% bug rate and zero automated tests.
+
+---
+
 ### Experience
 
 **Douzone Healthcare** — Senior Full-Stack Developer / System Architect *(2024 – Present)*
