@@ -90,12 +90,3 @@ Led consolidation of 11 React services + legacy code into Turborepo monorepo. Re
 - **B.S. Computer Science** — Korea National Open University, Korea
 - **B.S. Civil Engineering** — MEPhI, Russia
 
----
-
-<details>
-<summary>GitHub Stats</summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=aksovius&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksovius&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</details>
