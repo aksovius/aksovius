@@ -87,7 +87,7 @@ Led consolidation of 11 React services + legacy code into Turborepo monorepo. Re
 ### Education
 
 - **M.S. Convergence Engineering** — Sungkyunkwan University, Korea *(GPA 4.04/4.5)*
-- **B.S. Computer Science** — Korea National Open University *(in progress)*
+- **B.S. Computer Science** — Korea National Open University, Korea
 - **B.S. Civil Engineering** — MEPhI, Russia
 
 ---
